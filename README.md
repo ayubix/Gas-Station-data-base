@@ -1,2 +1,2 @@
 # Gas-Station-data-base
-A data base system for gas station for academic courser on SQL
+Developed a database system for managing gas station operations as the final project in my SQL academic course.
